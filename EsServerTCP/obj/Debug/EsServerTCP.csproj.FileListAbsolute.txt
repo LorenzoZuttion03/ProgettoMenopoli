@@ -5,3 +5,10 @@ C:\Users\lorenzo.zuttion\Documents\EsServerTCP\EsServerTCP\obj\Debug\EsServerTCP
 C:\Users\lorenzo.zuttion\Documents\EsServerTCP\EsServerTCP\obj\Debug\EsServerTCP.csproj.CoreCompileInputs.cache
 C:\Users\lorenzo.zuttion\Documents\EsServerTCP\EsServerTCP\obj\Debug\EsServerTCP.exe
 C:\Users\lorenzo.zuttion\Documents\EsServerTCP\EsServerTCP\obj\Debug\EsServerTCP.pdb
+C:\Users\Tommaso.Brandinelli\Documents\GitHub\ProgettoMenopoli\EsServerTCP\bin\Debug\EsServerTCP.exe.config
+C:\Users\Tommaso.Brandinelli\Documents\GitHub\ProgettoMenopoli\EsServerTCP\bin\Debug\EsServerTCP.exe
+C:\Users\Tommaso.Brandinelli\Documents\GitHub\ProgettoMenopoli\EsServerTCP\bin\Debug\EsServerTCP.pdb
+C:\Users\Tommaso.Brandinelli\Documents\GitHub\ProgettoMenopoli\EsServerTCP\obj\Debug\EsServerTCP.csprojAssemblyReference.cache
+C:\Users\Tommaso.Brandinelli\Documents\GitHub\ProgettoMenopoli\EsServerTCP\obj\Debug\EsServerTCP.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Brandinelli\Documents\GitHub\ProgettoMenopoli\EsServerTCP\obj\Debug\EsServerTCP.exe
+C:\Users\Tommaso.Brandinelli\Documents\GitHub\ProgettoMenopoli\EsServerTCP\obj\Debug\EsServerTCP.pdb
